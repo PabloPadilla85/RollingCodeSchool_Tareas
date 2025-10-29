@@ -8,7 +8,6 @@ let inputDescripcion = document.querySelector("#decripcion");
 let tablaProductos = document.querySelector("tbody");
 let formulario = document.querySelector("#formularioProducto");
 
-
 let actualizar = false;
 let idActualizar = null;
 
