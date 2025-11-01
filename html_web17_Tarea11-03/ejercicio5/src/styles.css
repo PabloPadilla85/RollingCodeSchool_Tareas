@@ -1,0 +1,16 @@
+.encabezado{
+    color: wheat;
+    background-color: darkslategray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.contenedor li{
+    list-style-type: none;
+}
+
+.contenedor p{
+    font-weight: bolder;
+}

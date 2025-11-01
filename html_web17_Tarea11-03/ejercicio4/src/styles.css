@@ -1,0 +1,13 @@
+.cabezera{
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+    background-color: darkslategray;
+}
+.contenido{
+    text-align: center;
+    font-weight: bolder;
+    padding: 15px;
+}

@@ -1,0 +1,10 @@
+.cabezera{
+    background-color:darkslategrey;
+    color: wheat;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
+p{
+    padding-left: 20px;
+}
